@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "marca": "Yamaha",
+    "modelo": "MT-07"
+  },
+  {
+    "id": 2,
+    "marca": "Honda",
+    "modelo": "CBR500R"
+  },
+  {
+    "id": 3,
+    "marca": "Kawasaki",
+    "modelo": "Ninja 400"
+  }
+]
