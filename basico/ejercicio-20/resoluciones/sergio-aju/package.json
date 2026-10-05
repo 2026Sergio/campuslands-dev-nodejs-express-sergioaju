@@ -1,0 +1,13 @@
+{
+  "name": "basico-20-express-json",
+  "version": "1.0.0",
+  "description": "Ejercicio de middleware express.json",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
